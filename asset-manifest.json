@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6b96aca.css",
-    "main.js": "/static/js/main.a98b5472.js",
+    "main.css": "/static/css/main.fda288ab.css",
+    "main.js": "/static/js/main.ae1be14c.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
-    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/expedia.png": "/static/media/expedia.f0dda850ccf6bd68d4c9.png",
     "static/media/indego.png": "/static/media/indego.12c6c700677ae36608e9.png",
     "static/media/profile.jpg": "/static/media/profile.a7430947c365f9725c58.jpg",
@@ -18,12 +17,12 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.a6b96aca.css.map": "/static/css/main.a6b96aca.css.map",
-    "main.a98b5472.js.map": "/static/js/main.a98b5472.js.map",
+    "main.fda288ab.css.map": "/static/css/main.fda288ab.css.map",
+    "main.ae1be14c.js.map": "/static/js/main.ae1be14c.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b96aca.css",
-    "static/js/main.a98b5472.js"
+    "static/css/main.fda288ab.css",
+    "static/js/main.ae1be14c.js"
   ]
 }
